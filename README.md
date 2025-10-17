@@ -1,7 +1,7 @@
 <h1 align="center">🖤 Hi there, I'm <span style="color:#800020;">Kiara Manacasa</span> ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=550&lines=Data+Science+Student+%F0%9F%93%88;Music+Lover+%F0%9F%8E%A7;Curious+Mind+%F0%9F%A7%A0;Future+Data+Researcher+in+Medicine+%F0%9F%92%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=550&lines=Data+Science+Student+%F0%9F%93%88;Music+Lover+%F0%9F%8E%A7;Curious+Mind+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 ---
