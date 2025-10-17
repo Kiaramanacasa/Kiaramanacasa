@@ -1,7 +1,4 @@
-<!-- Elegant & Fun GitHub README for Kiara Manacasa -->
-<p align="center">
-  <img src="https://i.imgur.com/XXXXX.png" alt="Kiara Manacasa Banner" width="100%">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&color=800020&center=true&vCenter=true&width=500&lines=Always+learning+🧠;Lover+of+music+and+data+🎵;Exploring+Data+in+Medicine+💉">
 
 
 <h1 align="center">🖤 Hi there, I'm <span style="color:#800020;">Kiara Manacasa</span> ✨</h1>
