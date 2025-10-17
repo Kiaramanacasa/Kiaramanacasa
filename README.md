@@ -1,4 +1,7 @@
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&color=800020&center=true&vCenter=true&width=500&lines=Always+learning+🧠;Lover+of+music+and+data+🎵;Exploring+Data+in+Medicine+💉">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kiaramanacasa&show_icons=true&theme=tokyonight&title_color=800020&icon_color=800020&text_color=ffffff&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiaramanacasa&layout=compact&theme=tokyonight&title_color=800020&text_color=ffffff&bg_color=000000&hide_border=true" />
+</p>
 
 
 <h1 align="center">🖤 Hi there, I'm <span style="color:#800020;">Kiara Manacasa</span> ✨</h1>
