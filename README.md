@@ -1,7 +1,8 @@
 <!-- Elegant & Fun GitHub README for Kiara Manacasa -->
 <p align="center">
-  <img src="https://i.imgur.com/tuimagen.png" width="100%" alt="Kiara Manacasa Banner"/>
+  <img src="https://i.imgur.com/XXXXX.png" alt="Kiara Manacasa Banner" width="100%">
 </p>
+
 
 <h1 align="center">🖤 Hi there, I'm <span style="color:#800020;">Kiara Manacasa</span> ✨</h1>
 
