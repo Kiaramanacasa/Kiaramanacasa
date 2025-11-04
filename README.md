@@ -10,7 +10,7 @@
 
 🎓 I'm an **19-year-old Data Science student** at **Austral University** (1st year).  
 💭 Passionate about **music**, I love to **sing** and listen to **Blackpink** 🎤 and **Rata Blanca** 🎸.  
-🚌 Traveling by bus is my favorite thinking time — just me, my headphones, and the road.  
+🚌 Traveling by bus is my favorite thinking time.  
 💡 I'm fascinated by how **data can transform medicine** and help improve lives through research.  
 
 ---
