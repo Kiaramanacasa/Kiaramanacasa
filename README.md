@@ -1,4 +1,4 @@
-<h1 align="center">🖤 Hi there, I'm <span style="color:#800020;">Kiara Manacasa</span> ✨</h1>
+<h1 align="center"> Hi there, I'm <span style="color:#800020;">Kiara Manacasa</span> </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=550&lines=Data+Science+Student+%F0%9F%93%88;Music+Lover+%F0%9F%8E%A7;Curious+Mind+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -6,11 +6,10 @@
 
 ---
 
-### 🌹 About Me
+### 🌹About Me
 
 🎓 I'm an **19-year-old Data Science student** at **Austral University** (1st year).  
-💭 Passionate about **music**, I love to **sing** and listen to **Blackpink** 🎤 and **Rata Blanca** 🎸.  
-🚌 Traveling by bus is my favorite thinking time.  
+  
 💡 I'm fascinated by how **data can transform medicine** and help improve lives through research.  
 
 ---
@@ -39,17 +38,11 @@
 
 ---
 
-### 🖋️ Quote I Live By
-
-> *"Data tells stories... and I want to learn how to listen."*
-
----
 
 ### 🩶 A Little More About Me
 
 🌍 Based in **Argentina 🇦🇷**  
 🗣️ I speak **Spanish** (native) **English** (intermediate) and **Italian**(intermediate).  
-🎧 When I’m not coding, I’m probably singing or exploring new songs.  
 💫 My dream is to merge **creativity, science, and empathy** through data.
 
 ---
