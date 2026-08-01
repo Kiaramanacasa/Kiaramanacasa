@@ -6,7 +6,7 @@
 
 ---
 
-### 🌹About Me
+### About Me
 
 🎓 I'm an **19-year-old Data Science student** at **Austral University** (1st year).  
   
@@ -39,7 +39,7 @@
 ---
 
 
-### 🩶 A Little More About Me
+### A Little More About Me
 
 🌍 Based in **Argentina 🇦🇷**  
 🗣️ I speak **Spanish** (native) **English** (intermediate) and **Italian**(intermediate).  
@@ -69,7 +69,7 @@
 
 ---
 
-<h3 align="center">🖤 Thanks for stopping by! 🖤</h3>
+<h3 align="center">Thanks for stopping by! </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="200" />
